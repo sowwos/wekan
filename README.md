@@ -134,3 +134,6 @@ with [Meteor](https://www.meteor.com).
 [translate_wekan]: https://app.transifex.com/wekan/wekan/
 [open_source]: https://en.wikipedia.org/wiki/Open-source_software
 [free_software]: https://en.wikipedia.org/wiki/Free_software
+
+# Это моя первая правка в Git.
+
